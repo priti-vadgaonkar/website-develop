@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LetsUpgrade Assignment-1</title>
+</head>
+
+<style>
+    *{
+        text-align: center;
+        list-style-type: none;
+    }
+    table{
+        margin: auto;
+        border-collapse: collapse;
+    }
+    th{
+        background-color: rgb(87, 87, 87);
+        color: white;
+        font-size: 1.4rem;
+    }
+    td{
+        background-color: rgb(231, 231, 250);
+        font-size: 1.2rem;
+    }
+    li{
+        padding: 5px;
+    }
+</style>
+
+<body>
+    
+    <table border="1">
+
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Profile Picture</th>
+            <th>Famous for</th>
+        </tr>
+
+        <tr>
+            <td>Elon Musk</td>
+            <td>elon.cryptoinfluencer@doge.com</td>
+            <td> <img src="https://images.indianexpress.com/2021/05/dogecoin-elon-musk-snl-memes.jpg" alt="" width="240px" height="150px"> </td>
+            <td>
+                <ul>
+                    <li>Tesla</li>
+                    <li>Space-travel</li>
+                    <li>DogeCoin</li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Mukesh Ambani</td>
+            <td>mukesh.motabhai@jio.com</td>
+            <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfF4OlAv8eqaE-qfhAitwrAAEPYKTfwKBHGQ&usqp=CAU" alt="" width="240px" height="150px"> </td>
+            <td>
+                <ul>
+                    <li>Jio</li>
+                    <li>Reliance</li>
+                    <li>Mumbai Indians</li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Jethalal Champaklal Gada</td>
+            <td>jethiya.babuchak@tapukepapa.com</td>
+            <td> <img src="https://m.media-amazon.com/images/M/MV5BYjUyZTAxYjAtNDIwZS00NjEwLWJmM2QtMjBlMzJlZmEzOTZlXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_.jpg" alt="" width="240px" height="150px"> </td>
+            <td>
+                <ul>
+                    <li>Gada Electronics</li>
+                    <li>TMKOC</li>
+                    <li>Best commedian</li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Krishnan Iyer</td>
+            <td>iyer.krishnan@scientist.com</td>
+            <td> <img src="https://pbs.twimg.com/profile_images/821643253405642752/UTwq6GML.jpg" alt="" width="240px" height="150px"> </td>
+            <td>
+                <ul>
+                    <li>Multi tasking 'Sainist'</li>
+                    <li>Wife</li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Champaklal Jayantilal Gada</td>
+            <td>champak.freeadvice@youngold.com</td>
+            <td> <img src="https://static.toiimg.com/thumb/msid-61876287,width-800,height-600,resizemode-75,imgsize-61086,pt-32,y_pad-40/61876287.jpg" alt="" width="240px" height="150px"> </td>
+            <td>
+                <ul>
+                    <li>Chairman @YOUNG_OLD group</li>
+                    <li>Free consultancy</li>
+                    <li>Angerness</li>
+                </ul>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
